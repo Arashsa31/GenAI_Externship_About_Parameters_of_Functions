@@ -1,1 +1,1 @@
-# GenAI_Externship_About_Parameters_of_Functions
+This assignment explores key Python concepts like functions, default parameters, variable arguments, and recursion. You'll begin by writing functions that accept parameters, such as a personalized greeting function and a simple number addition function. The task also covers default parameters, allowing for flexible function calls, and functions with variable arguments, such as for making a sandwich. Additionally, you'll implement recursive functions for calculating factorials and Fibonacci numbers.
